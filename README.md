@@ -2,3 +2,5 @@
 Projekt przykladowy
 
 cos dodane
+
+i jeszcze cos nowego
